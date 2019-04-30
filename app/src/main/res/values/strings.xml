@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SIC</string>
+    <string name="intro_first_line">Exchanging Solution</string>
+    <string name="intro_second_line">Exchanging is in your hand now</string>
+    <string name="btn_login">User Login Here</string>
+    <string name="btn_user_signup">New user? Register here</string>
 </resources>
