@@ -93,7 +93,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:id="@+id/passwordWrapper">
+                android:id="@+id/userPasswordWrapper">
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -108,7 +108,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:id="@+id/confirmPasswordWrapper">
+                android:id="@+id/userConfPasswordWrapper">
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -123,7 +123,7 @@
         <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/contactNoWrapper">
+            android:id="@+id/userContactNoWrapper">
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
